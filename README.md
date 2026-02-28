@@ -55,7 +55,8 @@ python insider_threat_detection_humanized.py
 ## Dataset
 
 [CERT Insider Threat Dataset v5.2](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=508099) — Carnegie Mellon University SEI.  
-The dataset is **not included** in this repository. Download it separately and place `week-r5.2.csv` or `week-r5.2.csv.gz` in the project root.
+OR
+Access From here (https://drive.google.com/file/d/1SbB1fiBdBn21Rs7Uu5kFKuPcyNhWTBL9/view?usp=sharing)
 
 ---
 
